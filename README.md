@@ -1,3 +1,3 @@
 # Competitiva_presentacion01
-Tarea de presentación de algoritmos de competitiva.
-si ps
+Tarea de presentación de algoritmos de competitiva.\\
+a oc
